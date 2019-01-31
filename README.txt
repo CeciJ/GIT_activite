@@ -1,0 +1,1 @@
+Ce fichier présente le projet. Activité Cours Github.
