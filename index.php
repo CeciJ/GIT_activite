@@ -2,4 +2,6 @@
 
 echo "Salut";
 
+echo "Vous allez bien ?";
+
 ?>
